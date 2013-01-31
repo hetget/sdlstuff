@@ -3,6 +3,8 @@
 CApp::CApp() {
 }
 
+//Lol
+
 int CApp::OnExecute() {
     return 0;
 }
